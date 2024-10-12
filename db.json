@@ -1,16 +1,10 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "movies": [
+    {"id" : 1, "titlt": "The Place Beyond The Pines", "release": "2012", "director": "Derek Cianfrance", "synopsis": "Ryan Gosling, Craig Van Hook, Eva Mendes"},
+    {"id" : 2, "titlt": "The Matrix", "release": "1999", "director": "Lana Wachowski", "synopsis": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss"},
+    {"id" : 3, "titlt": "Tenet", "release": "2020", "director": "Christopher Nolan", "synopsis": "Kenneth Branagh, Michael Caine, Nick Benseman"},
+    {"id" : 4, "titlt": "Dune", "release": "2021", "director": "Denis Villeneuve", "synopsis": "Timothée Chalamet, Rebecca Ferguson, Oscar Isaac"},
+    {"id" : 5, "titlt": "Blade Runner", "release": "1982", "director": "Ridley Scott", "synopsis": "Harrison, FordRutger, HauerSean Young"},
+    {"id" : 6, "titlt": "Ad Astra", "release": "2019", "director": "James Gray", "synopsis": "Brad Pitt, Tommy Lee Jones, Ruth Negga"}
   ]
 }
